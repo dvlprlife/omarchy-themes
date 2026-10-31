@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Swap the screensaver art to match the theme that was just set.
+# Called by `omarchy hook theme-set` with the theme's folder name in $1.
+# A theme opts in by shipping a screensaver.txt; any other theme gets the stock Omarchy logo.
+
+branding=~/.config/omarchy/branding/screensaver.txt
+art=~/.config/omarchy/themes/$1/screensaver.txt
+
+[[ -f $art ]] || art=${OMARCHY_PATH:-/usr/share/omarchy}/logo.txt
+
+cmp -s "$art" "$branding" || cp "$art" "$branding"
