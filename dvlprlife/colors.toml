@@ -1,0 +1,36 @@
+# dvlprlife — from the dvlprlife avatar and dvlprlife.com
+# shades black #0f0e0e · banner #16151a · site navy #0a2e5c · teal #1bc5bd · skin #e8ceab · cap grey #a5a29f
+mode = "dark"
+
+accent = "#1bc5bd"
+selection = "#0a2e5c"
+muted = "#7f7f82"
+
+background = "#16151a"
+dark_background = "#111014"
+darker_background = "#0f0e0e"
+lighter_background = "#24232a"
+
+foreground = "#e0e6ed"
+dark_foreground = "#a5a29f"
+light_foreground = "#f5f7fa"
+bright_foreground = "#ffffff"
+
+red = "#e06c6c"
+yellow = "#e8ceab"
+orange = "#d9a066"
+green = "#7fc97f"
+cyan = "#1bc5bd"
+blue = "#5b9bea"
+magenta = "#b48ce0"
+brown = "#8b7963"
+
+bright_red = "#f08a8a"
+bright_yellow = "#f3e0c4"
+bright_green = "#9fdc9f"
+bright_cyan = "#5fe0d9"
+bright_blue = "#86b7f2"
+bright_magenta = "#cbaaf0"
+
+hyprland_active_border = "rgba(1bc5bdee) rgba(1b5faeee) 45deg"
+hyprland_inactive_border = "rgba(24232aaa)"

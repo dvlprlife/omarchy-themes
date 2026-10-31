@@ -5,6 +5,7 @@ My custom [Omarchy](https://omarchy.org/) themes.
 | Theme | Mode | Notes |
 |-------|------|-------|
 | [coach-prawny](coach-prawny/) | light | Palette from coachprawny.com: paper, ink, prawn orange, board green. COACH PRAWNY screensaver |
+| [dvlprlife](dvlprlife/) | dark | From the dvlprlife avatar and dvlprlife.com: banner charcoal, site navy and teal. Avatar and pixel-shades wallpapers, dvlprlife screensaver |
 
 ## Use
 
