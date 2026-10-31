@@ -1,0 +1,36 @@
+# Coach Prawny — from the coachprawny.com palette
+# paper #f7f4ee · ink #1a1a17 · prawn #e8663f · board-green #1f4d3a · sage #5a8f78
+mode = "light"
+
+accent = "#e8663f"
+selection = "#f5c4b3"
+muted = "#b0a99a"
+
+background = "#f7f4ee"
+dark_background = "#efeae0"
+darker_background = "#e6e0d4"
+lighter_background = "#d8d2c6"
+
+foreground = "#1a1a17"
+dark_foreground = "#6b6a63"
+light_foreground = "#3a3934"
+bright_foreground = "#1a1a17"
+
+red = "#b3302b"
+yellow = "#b8792f"
+orange = "#e8663f"
+green = "#1f4d3a"
+cyan = "#5a8f78"
+blue = "#5b7a99"
+magenta = "#b5536b"
+brown = "#8a5a3c"
+
+bright_red = "#d14a3c"
+bright_yellow = "#e8a05a"
+bright_green = "#3f8f63"
+bright_cyan = "#6fa58c"
+bright_blue = "#7493b3"
+bright_magenta = "#c96f86"
+
+hyprland_active_border = "rgba(e8663fee) rgba(1f4d3aee) 45deg"
+hyprland_inactive_border = "rgba(d8d2c6aa)"
